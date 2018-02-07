@@ -30,7 +30,7 @@ public class ReverseWord {
 
 	public static void main(String[] args) {
 		ReverseWord revword = new ReverseWord();
-		String str = "the sky is blue";
+		String str = "the sky is blue and dark";
 		char [] s = str.toCharArray();
 		System.out.println(s);
 		String [] st = str.split("\\s ");
