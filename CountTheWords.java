@@ -13,7 +13,7 @@ class CountTheWords
       
         //String s1=sc.nextLine();
  
-        String[] words = s.split(" ");
+        String[] words = s.split(" ") ;
  
         System.out.println("Number of words in the string = "+words.length);
     }
